@@ -1,6 +1,6 @@
 # Planning note
 
-This note is used for planning a CodeRefinery workshop.
+[This note](https://hackmd.io/J4FIVtZiRWuOC8YBE_qlDQ) is used for planning a CodeRefinery workshop.
 
 ## Sign-up for interest
 
